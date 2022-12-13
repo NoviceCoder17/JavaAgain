@@ -11,6 +11,7 @@ public class Practice1ReadandPrint {
         num= s.nextInt();
         // display the integer//
         System.out.println("Entered Number is:"+ num);
+        //Changes made//
 
     }
 }
